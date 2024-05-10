@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey there 👋
 
 <!--
 **Shalaka1723/Shalaka1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalaka1723)](https://github.com/Shalaka1723/github-readme-stats)
